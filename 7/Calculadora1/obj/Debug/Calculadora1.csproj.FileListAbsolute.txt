@@ -1,0 +1,6 @@
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Calculadora1\bin\Debug\Calculadora1.dll
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Calculadora1\bin\Debug\Calculadora1.pdb
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Calculadora1\obj\Debug\Calculadora1.csproj.AssemblyReference.cache
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Calculadora1\obj\Debug\Calculadora1.csproj.CoreCompileInputs.cache
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Calculadora1\obj\Debug\Calculadora1.dll
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Calculadora1\obj\Debug\Calculadora1.pdb

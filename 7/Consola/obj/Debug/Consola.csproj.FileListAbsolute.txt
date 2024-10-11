@@ -1,0 +1,10 @@
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\bin\Debug\Consola.exe.config
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\bin\Debug\Consola.exe
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\bin\Debug\Consola.pdb
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\bin\Debug\Calculadora1.dll
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\bin\Debug\Calculadora1.pdb
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\obj\Debug\Consola.csproj.Up2Date
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\obj\Debug\Consola.exe
+E:\INFORMATICA\7MO SEMESTRE\INF 317\1ERPARCIAL\7\Consola\obj\Debug\Consola.pdb
